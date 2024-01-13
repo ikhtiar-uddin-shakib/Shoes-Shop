@@ -1,3 +1,3 @@
 # Shoes Shop UI🌼
 
-<img src="./Web UI/Shoes Web UI.pdf">
+<img src="./Web UI/MacBook Pro - 3.png">
