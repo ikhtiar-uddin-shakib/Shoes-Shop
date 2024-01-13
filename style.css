@@ -5,7 +5,6 @@
 }
 body {
   width: 1440px;
-  border: 1px solid black;
 }
 .banner {
   width: 1440px;
@@ -292,7 +291,7 @@ button h1 {
 .shoes {
   display: flex;
   margin-top: 20px;
-  margin-left: -30px;
+  margin-left: -10px;
 }
 .for {
   width: 330px;
@@ -430,13 +429,12 @@ button h1 {
   height: 700px;
   color: #fff;
   display: flex;
-  margin-left: -30px;
+  margin-left: -10px;
 }
 .perfect {
   width: 489px;
   height: 135px;
   flex-shrink: 0;
-  border: 1px solid black;
   border-radius: 20px;
   background: #fff;
   box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.05);
@@ -447,7 +445,6 @@ button h1 {
   width: 489px;
   height: 135px;
   flex-shrink: 0;
-  border: 1px solid black;
   border-radius: 20px;
   background: #fff;
   box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.05);
@@ -458,7 +455,6 @@ button h1 {
   width: 489px;
   height: 135px;
   flex-shrink: 0;
-  border: 1px solid black;
   border-radius: 20px;
   background: #fff;
   box-shadow: 0px 10px 30px 0px rgba(0, 0, 0, 0.05);
